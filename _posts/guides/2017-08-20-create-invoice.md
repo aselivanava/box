@@ -1,8 +1,8 @@
 ---
 layout: article
-title:  "Create a Glove Using BoxList"
+title:  "Create an Invoice"
 categories: guides
-modified: 2017-09-05
+modified: 2017-08-20
 image:
   teaser: glove-issue-list.jpg
 share: false

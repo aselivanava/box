@@ -1,7 +1,10 @@
 ---
 layout: media
-title: "Second Media Post with Large Feature Image"
+title: "API v1 Deprecation"
 categories: news
+excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+ads: false
+share: false
 image:
   feature: lock-1600x800.jpg
   teaser: glove-issue-list.jpg
