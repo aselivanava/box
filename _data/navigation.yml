@@ -1,6 +1,26 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Getting Started
+  url: /getting-started/
+  excerpt: "Everything you need to know to get started with BoxingChannel API"
+  image: start.jpg
+
+- title: Guides
+  url: /articles/
+  excerpt: "API guides for BoxingChannel"
+  image: guides.jpg
+  
+- title: API
+  url: /articles/
+  excerpt: "API reference"
+  image: api.jpg  
+
+- title: News
+  url: /media/
+  excerpt: "BoxingChannel API news"
+  image: news.jpg
+
+- title: About
+  url: /about/
+  excerpt: "All about BoxingChannel"
+  image: info.jpg
