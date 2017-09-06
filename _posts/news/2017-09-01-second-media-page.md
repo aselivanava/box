@@ -1,7 +1,7 @@
 ---
 layout: media
-title: "Second Media Post with Large Feature Image"
-categories: media
+title: "Media Post with Large Feature Image"
+categories: news
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 ads: false
 share: false

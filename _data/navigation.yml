@@ -6,17 +6,17 @@
   image: start.jpg
 
 - title: Guides
-  url: /articles/
+  url: /guides/
   excerpt: "API guides for BoxingChannel"
   image: guides.jpg
   
 - title: API
-  url: https://sb2api.servicechannel.com/swagger/ui/index
+  url: "https://sb2api.servicechannel.com/swagger/ui/index"
   excerpt: "API reference"
   image: api.jpg  
 
 - title: News
-  url: /media/
+  url: /news/
   excerpt: "BoxingChannel API news"
   image: news.jpg
 

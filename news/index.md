@@ -4,14 +4,13 @@ title: "News"
 date: 2017-09-05
 modified: 2017-09-06
 excerpt: "BoxingChannel news and updates. Stay tuned!"
-tags: []
 image:
   feature:
   teaser:
 ---
 
 <div class="tiles">
-{% for post in site.categories.media %}
+{% for post in site.categories.news %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

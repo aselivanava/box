@@ -1,8 +1,8 @@
 ---
 layout: article
 title:  "Create a Glove Using BoxList"
-categories: articles
-modified: 2017-09-06
+categories: guides
+modified: 2017-09-05
 image:
   teaser: glove-issue-list.jpg
 share: false
