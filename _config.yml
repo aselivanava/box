@@ -5,7 +5,7 @@ description: "BoxingChannel developer portal"
 logo: logo120.png
 teaser: teaser400.png
 locale: en
-url:
+url: "https://aselivanava.github.io/box"
 feed:
   path: atom.xml
 
