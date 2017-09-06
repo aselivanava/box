@@ -62,7 +62,10 @@ Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facili
 
 `LocationId` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
-> GET /locations <a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn-info">API</a>
+GET /locations
+{: .notice-info}
+
+<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">API</a>
 
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
@@ -114,7 +117,8 @@ Required Field | Response Body Field
 
 `AredId` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
-> GET /subscribers/current/storedashboards/current/issuelist/areas
+POST /subscribers/current/storedashboards/current/issuelist/areas
+{: .notice-success}
 
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
@@ -122,14 +126,14 @@ Authorization | Header | Bearer `{access-token}`
 
 Example request
 
-```http
+~~~http
 GET https://aselivanava.github.io/subscribers/current/storedashboards/current/issuelist/areas HTTP/1.1
 Authorization: Bearer {access-token}
-```
+~~~
 
 Example response
 
-```json
+~~~json
 myObj = {
     "name":"John",
     "age":30,
@@ -139,7 +143,9 @@ myObj = {
         "car3":"Fiat"
     }
  }
-```
+~~~
+
+<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">API</a>
 
 Use the response to get the following fields:
 
@@ -171,7 +177,8 @@ myObj = {
  }
 ```
 
-> GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes
+GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes
+{: .notice-danger}
 
 
 `ProblemType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
@@ -207,7 +214,7 @@ Example response
 }
 ```
 
-> GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes?locationId={locationId}
+###### GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes?locationId={locationId}
 
 
 `AssetType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
