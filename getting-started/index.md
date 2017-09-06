@@ -12,7 +12,7 @@ image:
 share: false
 ---
 
-The basics for getting Skinny Bones setup.
+The basics for getting BoxingChannel API setup.
 
 ## Installation
 
