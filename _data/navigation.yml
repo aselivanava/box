@@ -11,7 +11,7 @@
   image: guides.jpg
   
 - title: API
-  url: https://sb2api.servicechannel.com/swagger/ui/index
+  url: http://mademistakes.com
   excerpt: "API reference"
   image: api.jpg  
 
