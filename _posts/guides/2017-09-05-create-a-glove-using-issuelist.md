@@ -10,7 +10,6 @@ comments: true
 ads: false
 ---
 
-
 Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien.
 {% include toc.html %}
 
