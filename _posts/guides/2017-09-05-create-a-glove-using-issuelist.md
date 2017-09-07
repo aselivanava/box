@@ -228,7 +228,7 @@ Required Field | Response Body Field
 `ProblemCode` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
 GET
-{: .notice-info}
+
 <code>/subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes</code>
 
 
@@ -277,12 +277,17 @@ Required Field | Response Body Field
 
 Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
-DELETE
-{: .notice-danger}
+Button and wbr
 
-```http
-/subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes}
-```
+<a href="" class="btn-info">DELETE</a> /subscribers/current<wbr>/storedashboards<wbr>/current<wbr>/issuelist<wbr>/areas/{areaId}/problemtypes<wbr>/{problemType}/equipmenttypes/{equipmentType}<wbr>/problemcodes}
+
+Badge and shy
+
+<div class="badges"><span class="badge info">DELETE</span></div>/subscribers/current&shy/storedashboards/current&shy/issuelist/areas&shy/{areaId}/problemtypes&shy/{problemType}/equipmenttypes/{equipmentType}/&shyproblemcodes}
+
+Badge and wrap
+
+<WRAP CHAR> DELETE /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes} </WRAP CHAR>
 
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
