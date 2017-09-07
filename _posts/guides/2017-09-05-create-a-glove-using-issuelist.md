@@ -287,7 +287,7 @@ Badge and shy
 
 Badge and wrap
 
-<WRAP CHAR> DELETE /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes} </WRAP CHAR>
+<WRAP CHAR> DELETE /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes} </WRAP>
 
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
