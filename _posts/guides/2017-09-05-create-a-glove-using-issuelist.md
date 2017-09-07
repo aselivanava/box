@@ -11,28 +11,22 @@ ads: false
 ---
 
 
-Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien. Cras fringilla molestie nibh, non auctor orci vehicula quis. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
-
+Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien.
 {% include toc.html %}
 
 ## About BoxList
 
 Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien. Cras fringilla molestie nibh, non auctor orci vehicula quis. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
 
-Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien. Cras fringilla molestie nibh, non auctor orci vehicula quis. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
-
-
-Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien. Cras fringilla molestie nibh, non auctor orci vehicula quis. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
+![BoxList](http://placehold.it/900x450.gif "BoxList")
 
 ### List 1
 
 Duis non dignissim elit, quis pretium risus. Vestibulum maximus tincidunt ex sit amet fringilla. Nam lacinia elit nec massa venenatis pellentesque. Donec nec urna sollicitudin, lacinia magna quis, volutpat felis. Duis a tellus sit amet sapien tristique rhoncus. Vivamus semper quis arcu nec feugiat. Nulla vitae elit nisi. In sit amet erat ac risus lacinia aliquet.
 
-Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+![BoxChoice]({{ site.url }}/images/boxlist.jpg "BoxList")
 
 ### List 2
-
-Duis non dignissim elit, quis pretium risus. Vestibulum maximus tincidunt ex sit amet fringilla. Nam lacinia elit nec massa venenatis pellentesque. Donec nec urna sollicitudin, lacinia magna quis, volutpat felis. Duis a tellus sit amet sapien tristique rhoncus. Vivamus semper quis arcu nec feugiat. Nulla vitae elit nisi. In sit amet erat ac risus lacinia aliquet.
 
 Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
@@ -40,13 +34,10 @@ Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facili
 
 Duis non dignissim elit, quis pretium risus. Vestibulum maximus tincidunt ex sit amet fringilla. Nam lacinia elit nec massa venenatis pellentesque. Donec nec urna sollicitudin, lacinia magna quis, volutpat felis. Duis a tellus sit amet sapien tristique rhoncus. Vivamus semper quis arcu nec feugiat. Nulla vitae elit nisi. In sit amet erat ac risus lacinia aliquet.
 
-Note. Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien. Cras fringilla molestie nibh, non auctor orci vehicula quis. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
+Note. Vestibulum ultricies erat ut `code` blandit velit eleifend. Go here <a href="https://servicechannel.zendesk.com/hc/en-us/articles/208072226-API-Integration">link</a> proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien. Cras fringilla molestie nibh, non auctor orci vehicula quis. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
 {: .notice-inverse}
 
-Note. Second paragraph. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
-{: .notice-inverse}
-
-Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero.
 
 * `LocationId`
 * `AreaId` and `ExtendedAreaName`
@@ -56,18 +47,16 @@ Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facili
 
 Duis non dignissim elit, quis pretium risus. Vestibulum maximus tincidunt ex sit amet fringilla. Nam lacinia elit nec massa venenatis pellentesque. Donec nec urna sollicitudin, lacinia magna quis, volutpat felis. Duis a tellus sit amet sapien tristique rhoncus. Vivamus semper quis arcu nec feugiat. Nulla vitae elit nisi. In sit amet erat ac risus lacinia aliquet.
 
-Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
-
 ### LocationId
 
-`LocationId` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
-
-GET /locations
-{: .notice-info}
+`LocationId` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices.
 
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
 Authorization | Header | Bearer `{access-token}`
+
+GET /locations
+{: .notice-info}
 
 ##### Example request
 
@@ -76,7 +65,7 @@ GET https://aselivanava.github.io/locations HTTP/1.1
 Authorization: Bearer {access-token}
 ```     
 
-#### Example response
+##### Example response
 
 Response code: HTTP/1.1 200 OK
 
@@ -115,25 +104,25 @@ Required Field | Response Body Field
 
 ### AreaId
 
-`AredId` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+`AredId` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo.
 
-POST /subscribers/current/storedashboards/current/issuelist/areas <a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">API</a>
+POST /subscribers/current/storedashboards/current/issuelist/areas
 {: .notice-success}
 
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
 Authorization | Header | Bearer `{access-token}`
 
-Example request
+##### Example request
 
-~~~http
+```http
 GET https://aselivanava.github.io/subscribers/current/storedashboards/current/issuelist/areas HTTP/1.1
 Authorization: Bearer {access-token}
-~~~
+```
 
-Example response
+##### Example response
 
-~~~json
+```json
 myObj = {
     "name":"John",
     "age":30,
@@ -143,7 +132,9 @@ myObj = {
         "car3":"Fiat"
     }
  }
-~~~
+```
+
+<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">Test it!</a>
 
 Use the response to get the following fields:
 
@@ -154,21 +145,24 @@ Required Field | Response Body Field
 
 ### ProblemType
 
-`ProblemType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+`ProblemType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit.
+
+GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes
+{: .notice-danger}
 
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
 Authorization | Header | Bearer `{access-token}`
 areaId	| Path	| 4935
 
-Example request
+##### Example request
 
 ```http
 GET https://aselivanava.github.io/subscribers/current/storedashboards/current/issuelist/areas/4935/problemtypes HTTP/1.1
 Authorization: Bearer {access-token}
 ```
 
-Example response
+##### Example response
 
 ```json
 myObj = {
@@ -182,8 +176,7 @@ myObj = {
  }
 ```
 
-GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes
-{: .notice-danger}
+<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">Test it!</a>
 
 Use the response to get the following field:
 
@@ -193,14 +186,26 @@ Required Field | Response Body Field
 
 ### AssetType
 
-Example request
+`AssetType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+
+GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes?locationId={locationId}
+{: .notice-info}
+
+Required Parameter | Parameter Type | Example Value
+-------------- | -------------- | --------------
+Authorization | Header | Bearer `{access-token}`
+areaId | Path	| 4935
+problemType	| Path	| “Elevator”
+locationId	| Query	| 2006071467
+
+##### Example request
 
 ```http
 GET https://aselivanava.github.io/subscribers/current/storedashboards/current/issuelist/areas/4935/problemtypes/Elevator/equipmenttypes?locationId=2006071467 HTTP/1.1
 Authorization: Bearer {access-token}
 ```
 
-Example response
+##### Example response
 
 ```json
 {
@@ -210,19 +215,7 @@ Example response
    ]
 }
 ```
-
-GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes?locationId={locationId}
-{: .notice-info}
-
-
-`AssetType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
-
-Required Parameter | Parameter Type | Example Value
--------------- | -------------- | --------------
-Authorization | Header | Bearer `{access-token}`
-areaId | Path	| 4935
-problemType	| Path	| “Elevator”
-locationId	| Query	| 2006071467
+<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">Test it!</a>
 
 Use the response to get the following field:
 
@@ -232,18 +225,26 @@ Required Field | Response Body Field
 
 ### ProblemCode
 
-`GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes`
+`ProblemCode` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
-<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">API</a>
+GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes
+{: .notice-info}
 
-Example request
+Required Parameter | Parameter Type | Example Value
+-------------- | -------------- | --------------
+Authorization | Header | Bearer `{access-token}`
+areaId	| Path	| 4935
+problemType	| Path	| “Elevator”
+equipmentType	| Path	| “Freight Elevator”
+
+##### Example request
 
 ```http
 GET https://aselivanava.github.io/subscribers/current/storedashboards/current/issuelist/areas/4935/problemtypes/Elevator/equipmenttypes/Freight%20Elevator/problemcodes HTTP/1.1
 Authorization: Bearer {access-token}
 ```
 
-Example response
+##### Example response
 
 ```json
 myObj = {
@@ -257,19 +258,7 @@ myObj = {
  }
 ```
 
-GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes
-{: .notice-info}
-
-`ProblemCode` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
-
-`GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes` <a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">Test it!</a>
-
-Required Parameter | Parameter Type | Example Value
--------------- | -------------- | --------------
-Authorization | Header | Bearer `{access-token}`
-areaId	| Path	| 4935
-problemType	| Path	| “Elevator”
-equipmentType	| Path	| “Freight Elevator”
+<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">Test it!</a>
 
 Use the response to get the following field:
 
@@ -279,7 +268,18 @@ Required Field | Response Body Field
 
 ## Create a Glove Using Basic Parameters
 
-Example request
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+
+DELETE /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes
+{: .notice-danger}
+
+Required Parameter | Parameter Type | Example Value
+-------------- | -------------- | --------------
+Authorization | Header | Bearer `{access-token}`
+Content-Type | Header | application/json
+request | Body | See example request
+
+##### Example request
 
 ```http
 POST https://aselivanava.github.io/workorders HTTP/1.1
@@ -300,7 +300,7 @@ myObj = {
 
 ```
 
-Example response
+##### Example response
 
 ```json
 myObj = {
@@ -314,40 +314,52 @@ myObj = {
  }
 ```
 
-> POST /workorders
-
 Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
-
-Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
-
-Gestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
-
-Required Parameter | Parameter Type | Example Value
--------------- | -------------- | --------------
-Authorization | Header | Bearer `{access-token}`
-Content-Type | Header | application/json
-request | Body | See example request
 
 ## Creating a Glove Using Additional Parameters
 
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+
 ### Troubleshooting Tip
+
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
 ### Interactive Troubleshooting
 
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+
 #### About the Interactive Troubleshooting
+
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
 #### Get AdditionalFields
 
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+
 #### Create a Glove Using AdditionalFields
+
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
 #### Additional Parameters to Consider
 
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+
 ### Beg Information
+
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
 ## Find Duplicate Gloves
 
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+
 ### Possible Duplicates
+
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
 ### Potential Recalls
 
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+
 ## Create a Second Glove
+
+Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
