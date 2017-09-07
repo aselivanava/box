@@ -4,7 +4,7 @@ title:  "Create a Glove, Classic Approach"
 categories: guides
 modified: 2017-09-01
 image:
-  teaser: glove-issue-list.jpg
+  teaser: glove-classic.jpg
 share: false
 ads: false
 ---

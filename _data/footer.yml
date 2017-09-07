@@ -6,5 +6,5 @@
 - title: Getting Started
   url: /getting-started/
 
-- title: About
-  url: /about/
+- title: API
+  url: https://sb2api.servicechannel.com/swagger/ui/index

@@ -8,7 +8,7 @@ excerpt: "Demoing the various thumbnail grid styles."
 ads: false
 image:
   feature:
-  teaser:
+  teaser: image-grid.jpg
 ---
 
 This is a post to test image grids.

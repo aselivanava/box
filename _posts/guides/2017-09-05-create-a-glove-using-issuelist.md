@@ -5,7 +5,8 @@ categories: guides
 modified: 2017-09-05
 image:
   teaser: glove-issue-list.jpg
-share: false
+share: true
+comments: true
 ads: false
 ---
 
@@ -22,7 +23,6 @@ Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendr
 
 
 Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien. Cras fringilla molestie nibh, non auctor orci vehicula quis. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
-{: .notice-info}
 
 ### List 1
 
@@ -40,11 +40,11 @@ Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facili
 
 Duis non dignissim elit, quis pretium risus. Vestibulum maximus tincidunt ex sit amet fringilla. Nam lacinia elit nec massa venenatis pellentesque. Donec nec urna sollicitudin, lacinia magna quis, volutpat felis. Duis a tellus sit amet sapien tristique rhoncus. Vivamus semper quis arcu nec feugiat. Nulla vitae elit nisi. In sit amet erat ac risus lacinia aliquet.
 
-Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien. Cras fringilla molestie nibh, non auctor orci vehicula quis. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
-{: .notice-info}
+Note. Vestibulum ultricies erat ut urna congue, id blandit velit eleifend. Proin hendrerit, orci rhoncus vestibulum bibendum, justo nisi sodales felis, eu gravida mi purus et sapien. Cras fringilla molestie nibh, non auctor orci vehicula quis. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
+{: .notice-inverse}
 
-Second paragraph. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
-{: .notice-info}
+Note. Second paragraph. Nam luctus magna sed lorem interdum elementum. Mauris finibus mi sit amet leo pharetra consequat. Nunc neque lacus, aliquet vel risus ac, gravida malesuada ipsum. Quisque aliquam ante vel luctus placerat.
+{: .notice-inverse}
 
 Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
@@ -65,20 +65,18 @@ Vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facili
 GET /locations
 {: .notice-info}
 
-<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">API</a>
-
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
 Authorization | Header | Bearer `{access-token}`
 
-Example request
+##### Example request
 
 ```http
 GET https://aselivanava.github.io/locations HTTP/1.1
 Authorization: Bearer {access-token}
 ```     
 
-Example response
+#### Example response
 
 Response code: HTTP/1.1 200 OK
 
@@ -107,6 +105,8 @@ Response code: HTTP/1.1 200 OK
 }
 ```
 
+<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">Test it!</a>
+
 Use the response to get the following field:
 
 Required Field | Response Body Field
@@ -117,7 +117,7 @@ Required Field | Response Body Field
 
 `AredId` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
-POST /subscribers/current/storedashboards/current/issuelist/areas
+POST /subscribers/current/storedashboards/current/issuelist/areas <a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">API</a>
 {: .notice-success}
 
 Required Parameter | Parameter Type | Example Value
@@ -145,8 +145,6 @@ myObj = {
  }
 ~~~
 
-<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">API</a>
-
 Use the response to get the following fields:
 
 Required Field | Response Body Field
@@ -155,6 +153,13 @@ Required Field | Response Body Field
 `ExtendedAreaName` | `IssueAreas` — `Name`
 
 ### ProblemType
+
+`ProblemType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+
+Required Parameter | Parameter Type | Example Value
+-------------- | -------------- | --------------
+Authorization | Header | Bearer `{access-token}`
+areaId	| Path	| 4935
 
 Example request
 
@@ -179,14 +184,6 @@ myObj = {
 
 GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes
 {: .notice-danger}
-
-
-`ProblemType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
-
-Required Parameter | Parameter Type | Example Value
--------------- | -------------- | --------------
-Authorization | Header | Bearer `{access-token}`
-areaId	| Path	| 4935
 
 Use the response to get the following field:
 
@@ -214,7 +211,8 @@ Example response
 }
 ```
 
-###### GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes?locationId={locationId}
+GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes?locationId={locationId}
+{: .notice-info}
 
 
 `AssetType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
@@ -233,6 +231,10 @@ Required Field | Response Body Field
 `AssetType`	| `IssueEquipmentTypes` — choose any name
 
 ### ProblemCode
+
+`GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes`
+
+<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">API</a>
 
 Example request
 
@@ -255,9 +257,12 @@ myObj = {
  }
 ```
 
-> GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes
+GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes
+{: .notice-info}
 
 `ProblemCode` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
+
+`GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes` <a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">Test it!</a>
 
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
