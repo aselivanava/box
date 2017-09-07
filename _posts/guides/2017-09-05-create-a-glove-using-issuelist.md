@@ -106,7 +106,7 @@ Required Field | Response Body Field
 
 `AredId` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo.
 
-POST /subscribers/current/storedashboards/current/issuelist/areas
+POST /subscribers/<wbr>current<wbr>/storedashboards<wbr>/current/<wbr>issuelist/<wbr>areas
 {: .notice-success}
 
 Required Parameter | Parameter Type | Example Value
@@ -147,7 +147,7 @@ Required Field | Response Body Field
 
 `ProblemType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit.
 
-GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes
+GET /subscribers<wbr>/current/storedashboards<wbr>/current/issuelist<wbr>areas/{areaId}/<wbr>problemtypes
 {: .notice-danger}
 
 Required Parameter | Parameter Type | Example Value
@@ -188,7 +188,7 @@ Required Field | Response Body Field
 
 `AssetType` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
-GET /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes?locationId={locationId}
+GET /subscribers/<wbr>current/storedashboards/<wbr>current/issuelist<wbr>/areas/<wbr>{areaId}/problemtypes/<wbr>{problemType}/<wbr>equipmenttypes?locationId={locationId}
 {: .notice-info}
 
 Required Parameter | Parameter Type | Example Value
@@ -227,10 +227,8 @@ Required Field | Response Body Field
 
 `ProblemCode` vestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
-GET
-
-<code>/subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes</code>
-
+GET /subscribers/<wbr>current/storedashboard/<wbr>current/<wbr>issuelist/<wbr>areas/{areaId}/<wbr>problemtypes/<wbr>{problemType}/<wbr>equipmenttypes/<wbr>{equipmentType}/<wbr>problemcod
+{: .notice-warning}
 
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
@@ -238,11 +236,6 @@ Authorization | Header | Bearer `{access-token}`
 areaId	| Path	| 4935
 problemType	| Path	| “Elevator”
 equipmentType	| Path	| “Freight Elevator”
-
-GET
-{: .notice-info}
-
-<code>/subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes</code>
 
 ##### Example request
 
@@ -277,29 +270,14 @@ Required Field | Response Body Field
 
 Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
 
-Notice and wbr
-
-DELETE /subscribers/current<wbr>/storedashboards<wbr>/current<wbr>/issuelist<wbr>/areas/{areaId}/problemtypes<wbr>/{problemType}/equipmenttypes/{equipmentType}<wbr>/problemcodes}
-{: .notice-danger}
-
-Notice and shy
-
-DELELE /subscribers/current&shy/storedashboards/current&shy/issuelist/areas&shy/{areaId}/problemtypes&shy/{problemType}/equipmenttypes/{equipmentType}/&shyproblemcodes}
+DELETE /subscribers/current<wbr>/storedashboards<wbr>/current<wbr>/issuelist<wbr>/areas/{areaId}<wbr>/problemtypes<wbr>/{problemType}/equipmenttypes<wbr>/{equipmentType}<wbr>/problemcodes}
 {: .notice-info}
-
-Wrap
-
-<WRAP CHAR> DELETE /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes} </WRAP>
 
 Required Parameter | Parameter Type | Example Value
 -------------- | -------------- | --------------
 Authorization | Header | Bearer `{access-token}`
 Content-Type | Header | application/json
 request | Body | See example request
-
-DELETE
-{: .notice-danger}
-/subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes}
 
 ##### Example request
 
@@ -335,10 +313,9 @@ myObj = {
     }
  }
 ```
+<a href="https://sb2api.servicechannel.com/swagger/ui/index#!/Locations/Locations_GetLocations_0" class="btn">Test it!</a>
 
 Hestibulum nec lacus sit amet diam vestibulum iaculis id nec velit. Nulla facilisis justo sit amet magna finibus ultrices. Ut nec venenatis velit. Fusce elementum egestas nunc, vel ultricies ex scelerisque vel. Ut at sem iaculis, consequat orci ac, maximus libero. Morbi sapien ante, sollicitudin quis nibh vel, vulputate egestas justo. Cras accumsan nisi vel consectetur lacinia. Nunc lacinia nibh eget imperdiet vehicula. Nulla nec pulvinar justo. Morbi nisi ligula, varius consequat tempus sit amet, tempor ac tellus. Etiam viverra vestibulum turpis, et commodo massa.
-
-**DELETE /subscribers/current/storedashboards/current/issuelist/areas/{areaId}/problemtypes/{problemType}/equipmenttypes/{equipmentType}/problemcodes}**
 
 ## Creating a Glove Using Additional Parameters
 
